@@ -1,1 +1,1 @@
-# Comma.ai-Instrctions can be found on the PDF above
+# Comma.ai-instruction can be found on the PDF above
